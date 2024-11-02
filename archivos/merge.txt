@@ -1,3 +1,9 @@
 Nombre: Andrea Merino Mesa,
 Edad: 17 años,
 Aspiraciones: Aprender a utilizar el lenguaje de java, además de mejorar mis habilidades de programación en Python y comprender mejor los conceptos de programación orientada a objetos de forma práctica.
+
+¿Por qué ahora puedes crear un commit y subir la carpeta?
+Lo que ocurrió con la carpeta "archivos" básicamente fue que esta no aparecía en Git, esto debido a que aún no tenía ningún archivo dentro de dicha carpeta y Git no la tiene en cuenta por eso. Para poder crear un commit y subir la carpeta tuvimos que añadir un archivo dentro de esta y que así Git la reconociera.
+
+¿Por qué es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+Porque luego, a la hora de enviar todo al repositorio web, pueden haber conflictos. Estos ocurren porque Git no sabrá con cuál versión del archivo quedarse y te mostrará el conflicto para que tu lo resuelvas.
