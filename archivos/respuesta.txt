@@ -1,1 +1,1 @@
-Si, hubo un problema con el punto anterior pues en Git no aparecía la carpeta "archivos", esto debido a que aún no tenía ningún archivo dentro y Git no la tiene en cuenta.
+Si, hubo un problema con el punto anterior pues en Git no aparecía la carpeta "archivos".
