@@ -1,1 +1,1 @@
-Se supone que debo hacer una explicacion 
+Lo que ocurrió con la carpeta "archivos" básicamente fue que esta no aparecía en Git, esto debido a que aún no tenía ningún archivo dentro de dicha carpeta y Git no la tiene en cuenta por eso. Para que esta se mostrara tuvimos que añadir un archivo dentro de esta y se solucionó el problema.
